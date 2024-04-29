@@ -1,0 +1,99 @@
+Function: Radix_sort
+Número de experimentos: 100
+Tamanho da lista de números: 5000
+Tempo total: 128.176799ms
+
+Function: Radix_sort_limit_digits
+Número de experimentos: 100
+Tamanho da lista de números: 5000
+Valor de k: 150000
+Tempo total: 24.036029ms
+
+Function: Radix_sort
+Número de experimentos: 100
+Tamanho da lista de números: 5000
+Tempo total: 130.384123ms
+
+Function: Radix_sort_limit_digits
+Número de experimentos: 100
+Tamanho da lista de números: 5000
+Valor de k: 1500000
+Tempo total: 27.72924ms
+
+Function: Radix_sort
+Número de experimentos: 100
+Tamanho da lista de números: 5000
+Tempo total: 130.049219ms
+
+Function: Radix_sort_limit_digits
+Número de experimentos: 100
+Tamanho da lista de números: 5000
+Valor de k: 15000000
+Tempo total: 32.839099ms
+
+Function: Radix_sort
+Número de experimentos: 100
+Tamanho da lista de números: 5000
+Tempo total: 130.58015ms
+
+Function: Radix_sort_limit_digits
+Número de experimentos: 100
+Tamanho da lista de números: 5000
+Valor de k: 150000000
+Tempo total: 36.95126ms
+
+Function: Radix_sort
+Número de experimentos: 100
+Tamanho da lista de números: 5000
+Tempo total: 127.984653ms
+
+Function: Radix_sort_limit_digits
+Número de experimentos: 100
+Tamanho da lista de números: 5000
+Valor de k: 1500000000
+Tempo total: 41.295106ms
+
+Function: Radix_sort
+Número de experimentos: 100
+Tamanho da lista de números: 5000
+Tempo total: 128.106764ms
+
+Function: Radix_sort_limit_digits
+Número de experimentos: 100
+Tamanho da lista de números: 5000
+Valor de k: 15000000000
+Tempo total: 73.372266ms
+
+Function: Radix_sort
+Número de experimentos: 100
+Tamanho da lista de números: 5000
+Tempo total: 129.734727ms
+
+Function: Radix_sort_limit_digits
+Número de experimentos: 100
+Tamanho da lista de números: 5000
+Valor de k: 150000000000
+Tempo total: 77.631847ms
+
+Function: Radix_sort
+Número de experimentos: 100
+Tamanho da lista de números: 5000
+Tempo total: 130.059014ms
+
+Function: Radix_sort_limit_digits
+Número de experimentos: 100
+Tamanho da lista de números: 5000
+Valor de k: 1500000000000
+Tempo total: 82.396937ms
+
+Function: Radix_sort
+Número de experimentos: 100
+Tamanho da lista de números: 5000
+Tempo total: 127.580218ms
+
+Function: Radix_sort_limit_digits
+Número de experimentos: 100
+Tamanho da lista de números: 5000
+Valor de k: 15000000000000
+Tempo total: 88.388145ms
+
